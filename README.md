@@ -6,6 +6,7 @@ Dynamically create a table of contents based on headings of a document
 
 ### Part 1
 **Table of Contents**  [Demo](https://letioneill.github.io/table-of-contents/01-table-of-contents.html)
+
 *Create a list of anchor links from all `<h2` elements and inject list into `#table-of-contents` element.*
 
 ### Part 2
